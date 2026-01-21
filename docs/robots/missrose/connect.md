@@ -18,7 +18,7 @@ next:
 
 在群里发送`/connect@missrose_bot`,之后 MissRose 会恢复一条消息。
 
-![Missrose](/photo/bot-1-2-1.webp)
+![Missrose](../../photo/bot-1-2-1.webp)
 
 点击下面的按钮以跳转到私聊，这样的话就连接到私聊了。
 
@@ -34,7 +34,7 @@ next:
 
 首先在群组里发送`/id`，MissRose 会回复群组 id。
 
-![Missrose](/photo/bot-1-2-2.webp)
+![Missrose](../../photo/bot-1-2-2.webp)
 
 >群组 id 一定是负数。
 
@@ -42,7 +42,7 @@ next:
 
 如果你之前连接到了多个群组，那么你在私聊里发送`/connect`就可以快速地切换连接的群组。
 
-![Missrose](/photo/bot-1-2-3.webp)
+![Missrose](../../photo/bot-1-2-3.webp)
 
 >MissRose 最多只会保存5次连接记录，或者说可以同时连接5个群组。
 
