@@ -12,7 +12,7 @@ next:
 
 当新用户加入群组时、成员推出群组时、置顶消息时等等，Telegram 会产生系统消息。
 
-![Missrose](/photo/bot-1-3-1.webp)
+![Missrose](../photo/bot-1-3-1.webp)
 
 我们并不希望群组里出现这种影响美观的消息，这时候可以使用 MissRose 删除这些消息。
 

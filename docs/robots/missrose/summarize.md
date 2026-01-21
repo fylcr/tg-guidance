@@ -21,7 +21,7 @@ MissRose 可能是唯一一个有[专门文档网站](https://missrose.org/)的�
 
 添加到群组后，你需要在群组里输入`/start@MissRose_bot`命令。之后 MissRose 会回复一条消息。
 
-![Missrose](/photo/bot-1-1.webp)
+![Missrose](../photo/bot-1-1.webp)
 
 点击下面的按钮进行人机验证。
 >这是为了防止 MissRose 的服务器被 spam 乱搞而炸掉的。~~（这可是血的教训）~~
