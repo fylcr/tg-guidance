@@ -3,8 +3,8 @@ prev:
   text: '清理功能'
   link: '/robots/missrose/clean'
 next:
-  text: '违禁词'
-  link: '/robots/missrose/blocklist'
+  text: '违禁操作'
+  link: '/robots/missrose/action'
 ---
 # 欢迎欢送与入群验证
 
@@ -71,4 +71,4 @@ next:
 
 如果你想让用户通过验证码的时候也能看看群规，发送`/captcharules on`后，用户做完人机后还需要同意群规才能在群组里发言。
 
-接下来我们要讲违禁词的相关知识。
+接下来我们要讲违禁操作的相关知识。

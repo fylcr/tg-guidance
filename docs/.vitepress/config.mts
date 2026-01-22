@@ -47,7 +47,7 @@ export default defineConfig({
                 { text: '综述', link: '/robots/missrose/summarize' },
                 { text: '连接到私聊', link: '/robots/missrose/connect' },
                 { text: '清理功能', link: '/robots/missrose/clean' },
-                { text: '', link: '' },
+                { text: '欢迎欢送与入群验证', link: '/robots/missrose/greeting-farewelling-group-verification' },
         ]
       },
       ]
