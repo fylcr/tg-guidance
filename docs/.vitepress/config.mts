@@ -48,6 +48,8 @@ export default defineConfig({
                 { text: '连接到私聊', link: '/robots/missrose/connect' },
                 { text: '清理功能', link: '/robots/missrose/clean' },
                 { text: '欢迎欢送与入群验证', link: '/robots/missrose/greeting-farewelling-group-verification' },
+                { text: '违禁操作', link: '/robots/missrose/action' },
+                { text: '违禁词', link: '/robots/missrose/blocklist' },
         ]
       },
       ]
